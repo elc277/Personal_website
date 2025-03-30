@@ -1,0 +1,11 @@
+# Node dependencies
+frontend/node_modules/
+backend/venv/
+*.pyc
+
+# Environment files
+.env
+
+# System stuff
+.DS_Store
+Thumbs.db
