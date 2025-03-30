@@ -1,0 +1,29 @@
+.contact-page {
+    padding: 2rem;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    color: #e2e8f0;
+  }
+  
+  .contact-text {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .contact-link {
+    font-size: 1.2rem;
+    color: #60a5fa;
+    text-decoration: underline;
+  }
+  
+  .contact-link:hover {
+    color: #93c5fd;
+  }
+  
+  .location {
+    margin-top: 1.5rem;
+    font-size: 0.9rem;
+    color: #94a3b8;
+  }
+  
