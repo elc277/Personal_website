@@ -11,6 +11,19 @@
     margin-bottom: 1rem;
   }
   
+  .contact-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .contact-icon {
+    font-size: 1.5rem;
+    color: #60a5fa;
+  }
+
   .contact-link {
     font-size: 1.2rem;
     color: #60a5fa;
@@ -27,3 +40,27 @@
     color: #94a3b8;
   }
   
+  .linkedin-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .linkedin-icon {
+    font-size: 1.5rem;
+    color: #60a5fa;
+  }
+  
+  .linkedin-link {
+    font-size: 1.1rem;
+    color: #60a5fa;
+    text-decoration: none;
+  }
+  
+  .linkedin-link:hover {
+    text-decoration: underline;
+    color: #93c5fd;
+  }
