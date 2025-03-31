@@ -1,0 +1,36 @@
+.not-found-page {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: #e2e8f0;
+  }
+  
+  .not-found-title {
+    font-size: 6rem;
+    color: #60a5fa;
+    margin-bottom: 1rem;
+  }
+  
+  .not-found-text {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: #94a3b8;
+  }
+  
+  .back-button {
+    background-color: #1e40af;
+    color: #e0f2fe;
+    font-weight: 600;
+    padding: 0.6rem 1.5rem;
+    border-radius: 9999px;
+    border: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .back-button:hover {
+    background-color: #1d4ed8;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+  }
+  

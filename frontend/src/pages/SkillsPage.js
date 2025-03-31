@@ -3,12 +3,13 @@ import './SkillsPage.css';
 import BackButton from '../components/BackButton';
 
 const skillGroups = {
-  "🧠 AI & ML": [
+  "🧠 Artificial Intelligence & Machine Learning": [
     "Machine Learning",
     "Transformers",
     "Prolog",
     "SPARQL",
-    "RDF/OWL"
+    "RDF/RDFS/OWL",
+    "Data Wrangling"
   ],
   "💻 Programming Languages": [
     "Python",
@@ -19,7 +20,10 @@ const skillGroups = {
     "React",
     "Flask",
     "SQLite",
-    "REST APIs"
+    "REST APIs",
+    "Pandas",
+    "Matplotlib",
+    "PyTorch"
   ],
   "🤝 Soft Skills": [
     "Problem Solving",
