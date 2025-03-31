@@ -25,7 +25,7 @@ const ContactPage = () => {
       <div className="linkedin-block">
         <FaLinkedin className="linkedin-icon" />
         <a
-          href="https://www.linkedin.com/in/luca-cristian-eftimie/"
+          href="https://www.linkedin.com/in/luca-eftimie-096317276/"
           target="_blank"
           rel="noopener noreferrer"
           className="linkedin-link"
