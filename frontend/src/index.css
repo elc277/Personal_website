@@ -10,10 +10,26 @@ body {
 html {
     scroll-behavior: smooth;
   }
-  html, body, #root {
+html, body, #root {
     background-color: #0f172a;
     color: #e2e8f0;
     height: 100%;
     margin: 0;
     padding: 0;
   } 
+html {
+    overflow-y: auto; 
+  }
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #334155;
+  border-radius: 9999px;
+  border: 2px solid #0f172a; 
+}
