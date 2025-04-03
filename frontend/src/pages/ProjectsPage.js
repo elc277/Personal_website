@@ -7,7 +7,7 @@ const ProjectsPage = () => {
   const [projects, setProjects] = useState([]);
 
   useEffect(() => {
-    axios.get('https://personal-website-1-zid4.onrender.com/api/projects')
+    axios.get('https://personal-website-2-ffej.onrender.com/api/projects')
       .then(res => setProjects(res.data))
       .catch(err => console.error('Error fetching projects:', err));
   }, []);
