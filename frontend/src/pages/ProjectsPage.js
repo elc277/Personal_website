@@ -31,7 +31,6 @@ const staticProjects = [
     title: "Bookmarkd.org",
     description:
       "Together with a friend, I developed a web app from scratch that allows users to search for books, save favorites, rate and review titles, follow other readers, and manage their personal bookshelf — all powered by the Google Books API and a custom Flask backend. The website is live at bookmarkd.org.",
-    link: "https://github.com/ianimeghea/Bookmarked",
     link: "https://bookmarkd.org"
   }
 ];
