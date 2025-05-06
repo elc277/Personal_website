@@ -24,8 +24,15 @@ const staticProjects = [
   {
     title: "Personal Website - Portfolio & Resume Platform",
     description:
-      "Designed and developed this fully responsive personal website using React. It features a portfolio section, skill overview, API-integrated project gallery, and contact options. Includes a dark theme, animations, and is hosted on Netlify with a backend previously managed on Render.",
+      "Designed and developed this fully responsive personal website using React. It features a portfolio section, skill overview, API-integrated project gallery, and contact options. Includes a dark theme, animations, and is hosted on Netlify.",
     link: "https://github.com/elc277/Personal_website"
+  },
+  {
+    title: "Bookmarkd.org",
+    description:
+      "Together with a friend, I developed a web app from scratch that allows users to search for books, save favorites, rate and review titles, follow other readers, and manage their personal bookshelf — all powered by the Google Books API and a custom Flask backend. The website is live at bookmarkd.org.",
+    link: "https://github.com/ianimeghea/Bookmarked",
+    link: "https://bookmarkd.org"
   }
 ];
 
@@ -61,7 +68,7 @@ const ProjectsPage = () => {
               <h3>{project.title}</h3>
               <p>{project.description}</p>
               <a href={project.link} target="_blank" rel="noopener noreferrer">
-                View on GitHub
+                Link to the project
               </a>
             </div>
           ))}
