@@ -42,7 +42,7 @@ const HomePage = () => {
 
         <div className="about-text-box">
           <p className="about-text">
-            I am a second-year Artificial Intelligence student at Vrije Universiteit Amsterdam. I am passionate about programming, problem-solving, and teamwork. I am ambitious and always looking for new opportunities to improve myself. I have worked with various programming languages and technologies and enjoy being part of innovative projects. My experience spans both academic and personal projects, and I am always ready to learn and take on new challenges.
+            I am a third-year Artificial Intelligence student at Vrije Universiteit Amsterdam. I am passionate about programming, problem-solving, and teamwork. I am ambitious and always looking for new opportunities to improve myself. I have worked with various programming languages and technologies and enjoy being part of innovative projects. My experience spans both academic and personal projects, and I am always ready to learn and take on new challenges.
           </p>
         </div>
       </div>
